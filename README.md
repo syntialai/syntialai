@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syntialai" alt="syntialai" /> </p>
 
 ### Github Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=syntialai&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
